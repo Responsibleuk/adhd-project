@@ -1172,7 +1172,7 @@ button {
   border-radius: 1rem;
   box-shadow: var(--dark-shadow);
   display: flex;
-  flex-direction: column;
+  flex-direction: row;
 }
 
 .title {

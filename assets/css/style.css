@@ -298,6 +298,9 @@ nav {
 	.social-icons a:hover {
 		color: var(--clr-primary-7);
 	}
+	.logo {
+		max-width: 50vw;
+	}
 }
 
 

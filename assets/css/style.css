@@ -72,7 +72,7 @@ ul {
 	list-style-type: none;
 }
 ol {
-	list-style-type: square;
+	
 	font-family: var(--ff-secondary);
 	color: var(--clr-grey-1);
 	line-height: 1.5;

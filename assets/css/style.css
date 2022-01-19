@@ -1033,16 +1033,6 @@ hero responsive
 	.choice-container {
 		min-width: 20rem;
 	}
-	fieldset {
-		width: 80vw;
-		border: none;
-		
-	}
-	
-	input {
-		width: 80vw;
-		border: none;
-}
 }
 
 @media screen and (max-width: 1000px) {
@@ -1061,7 +1051,7 @@ Form
 fieldset {
 	
 	
-	width: 40vw;
+	width: 25rem;
 	border: none;
 	
 }
@@ -1069,7 +1059,7 @@ fieldset {
 input {
 	
 	margin: 1rem;
-	width: 40vw;
+	width: 25rem;
 	padding: 1rem;
 	box-shadow: var(--light-shadow);
 	

@@ -115,6 +115,7 @@ h4 {
 p {
 	color: var(--clr-grey-5);
   margin-bottom: 1rem;
+  font-size: 1rem;
 }
 
 .center-heading {

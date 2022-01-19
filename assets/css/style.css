@@ -1049,11 +1049,20 @@ Form
 */
 
 fieldset {
-	border: medium none !important;
-	margin: 0 0 10px;
-	min-width: 100%;
-	padding: 0;
-	width: 100%;
+	
+	
+	width: 40vw;
+	border: none;
+	
+}
+
+input {
+	
+	margin: 1rem;
+	width: 40vw;
+	padding: 1rem;
+	box-shadow: var(--light-shadow);
+	
 }
 
 #contact button[type="submit"] {

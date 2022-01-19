@@ -71,6 +71,14 @@ body {
 ul {
 	list-style-type: none;
 }
+ol {
+	list-style-type: none;
+	font-family: var(--ff-secondary);
+	color: var(--clr-grey-1);
+	line-height: 1.5;
+	font-size: 1rem;
+
+}
 
 a {
 	text-decoration: none;
@@ -1049,14 +1057,12 @@ Form
 */
 
 fieldset {
-	
-	
 	width: 25rem;
 	border: none;
 	
 }
 
-input {
+.membership {
 	
 	margin: 1rem;
 	width: 25rem;
